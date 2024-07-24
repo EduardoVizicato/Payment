@@ -1,0 +1,15 @@
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\bin\Debug\net8.0\Payment.Domain.deps.json
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\bin\Debug\net8.0\Payment.Domain.runtimeconfig.json
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\bin\Debug\net8.0\Payment.Domain.dll
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\bin\Debug\net8.0\Payment.Domain.pdb
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\obj\Debug\net8.0\Payment.Domain.csproj.AssemblyReference.cache
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\obj\Debug\net8.0\Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\obj\Debug\net8.0\Payment.Domain.AssemblyInfoInputs.cache
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\obj\Debug\net8.0\Payment.Domain.AssemblyInfo.cs
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\obj\Debug\net8.0\Payment.Domain.csproj.CoreCompileInputs.cache
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\obj\Debug\net8.0\Payment.Domain.sourcelink.json
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\obj\Debug\net8.0\Payment.Domain.dll
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\obj\Debug\net8.0\refint\Payment.Domain.dll
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\obj\Debug\net8.0\Payment.Domain.pdb
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\obj\Debug\net8.0\Payment.Domain.genruntimeconfig.cache
+C:\trabalhos para postar\Payment\PaymentAPI\Payment.Domain\obj\Debug\net8.0\ref\Payment.Domain.dll

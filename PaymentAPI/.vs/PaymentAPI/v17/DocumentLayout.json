@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9055798-CEF9-4C08-B026-BE91B50DE5DE}|Payment.Domain\\Payment.Domain.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\payment.domain\\models\\requests\\paymentdetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9055798-CEF9-4C08-B026-BE91B50DE5DE}|Payment.Domain\\Payment.Domain.csproj|solutionrelative:payment.domain\\models\\requests\\paymentdetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281FF7B1-537E-4757-91CE-DBA976C16404}|PaymentAPI\\PaymentAPI.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281FF7B1-537E-4757-91CE-DBA976C16404}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B8DF59-8A60-475C-82BA-50CE43712D7A}|Payment.Infrastructure\\Payment.Infrastructure.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\payment.infrastructure\\repositories\\paymentdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B8DF59-8A60-475C-82BA-50CE43712D7A}|Payment.Infrastructure\\Payment.Infrastructure.csproj|solutionrelative:payment.infrastructure\\repositories\\paymentdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281FF7B1-537E-4757-91CE-DBA976C16404}|PaymentAPI\\PaymentAPI.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281FF7B1-537E-4757-91CE-DBA976C16404}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B8DF59-8A60-475C-82BA-50CE43712D7A}|Payment.Infrastructure\\Payment.Infrastructure.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\payment.infrastructure\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B8DF59-8A60-475C-82BA-50CE43712D7A}|Payment.Infrastructure\\Payment.Infrastructure.csproj|solutionrelative:payment.infrastructure\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9055798-CEF9-4C08-B026-BE91B50DE5DE}|Payment.Domain\\Payment.Domain.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\payment.domain\\repositories\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9055798-CEF9-4C08-B026-BE91B50DE5DE}|Payment.Domain\\Payment.Domain.csproj|solutionrelative:payment.domain\\repositories\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9055798-CEF9-4C08-B026-BE91B50DE5DE}|Payment.Domain\\Payment.Domain.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\payment.domain\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9055798-CEF9-4C08-B026-BE91B50DE5DE}|Payment.Domain\\Payment.Domain.csproj|solutionrelative:payment.domain\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Migrations\\20240724170817_UpdatingDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Payment.Infrastructure\\Migrations\\20240724170817_UpdatingDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Migrations\\20240724164931_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Payment.Infrastructure\\Migrations\\20240724164931_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281FF7B1-537E-4757-91CE-DBA976C16404}|PaymentAPI\\PaymentAPI.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{281FF7B1-537E-4757-91CE-DBA976C16404}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Migrations\\20240724160049_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Payment.Infrastructure\\Migrations\\20240724160049_CreateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9055798-CEF9-4C08-B026-BE91B50DE5DE}|Payment.Domain\\Payment.Domain.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\payment.domain\\payment.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9055798-CEF9-4C08-B026-BE91B50DE5DE}|Payment.Domain\\Payment.Domain.csproj|solutionrelative:payment.domain\\payment.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +75,161 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240724164931_SecondMigration.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Migrations\\20240724164931_SecondMigration.cs",
+              "RelativeDocumentMoniker": "Payment.Infrastructure\\Migrations\\20240724164931_SecondMigration.cs",
+              "ToolTip": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Migrations\\20240724164931_SecondMigration.cs",
+              "RelativeToolTip": "Payment.Infrastructure\\Migrations\\20240724164931_SecondMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:49:31.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentDetailRepository.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Repositories\\PaymentDetailRepository.cs",
+              "RelativeDocumentMoniker": "Payment.Infrastructure\\Repositories\\PaymentDetailRepository.cs",
+              "ToolTip": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Repositories\\PaymentDetailRepository.cs",
+              "RelativeToolTip": "Payment.Infrastructure\\Repositories\\PaymentDetailRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:40:34.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentDetailRequest.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Domain\\Models\\Requests\\PaymentDetailRequest.cs",
+              "RelativeDocumentMoniker": "Payment.Domain\\Models\\Requests\\PaymentDetailRequest.cs",
+              "ToolTip": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Domain\\Models\\Requests\\PaymentDetailRequest.cs",
+              "RelativeToolTip": "Payment.Domain\\Models\\Requests\\PaymentDetailRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:37:27.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Domain\\Repositories\\Interfaces\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "Payment.Domain\\Repositories\\Interfaces\\IPaymentRepository.cs",
+              "ToolTip": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Domain\\Repositories\\Interfaces\\IPaymentRepository.cs",
+              "RelativeToolTip": "Payment.Domain\\Repositories\\Interfaces\\IPaymentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:32:53.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\PaymentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Program.cs",
+              "ToolTip": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\PaymentAPI\\Program.cs",
+              "RelativeToolTip": "PaymentAPI\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:56:38.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDataContext.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "Payment.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "ToolTip": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "RelativeToolTip": "Payment.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:25:49.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Domain\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "Payment.Domain\\Models\\PaymentDetail.cs",
+              "ToolTip": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Domain\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "Payment.Domain\\Models\\PaymentDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:19:20.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "ToolTip": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwFUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:57:52.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240724170817_UpdatingDB.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Migrations\\20240724170817_UpdatingDB.cs",
+              "RelativeDocumentMoniker": "Payment.Infrastructure\\Migrations\\20240724170817_UpdatingDB.cs",
+              "ToolTip": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Migrations\\20240724170817_UpdatingDB.cs",
+              "RelativeToolTip": "Payment.Infrastructure\\Migrations\\20240724170817_UpdatingDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:08:17.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\PaymentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PaymentAPI\\appsettings.json",
+              "ToolTip": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\PaymentAPI\\appsettings.json",
+              "RelativeToolTip": "PaymentAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T15:58:56.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240724160049_CreateDB.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Migrations\\20240724160049_CreateDB.cs",
+              "RelativeDocumentMoniker": "Payment.Infrastructure\\Migrations\\20240724160049_CreateDB.cs",
+              "ToolTip": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Migrations\\20240724160049_CreateDB.cs",
+              "RelativeToolTip": "Payment.Infrastructure\\Migrations\\20240724160049_CreateDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:00:49.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Payment.Domain.csproj",
+              "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Domain\\Payment.Domain.csproj",
+              "RelativeDocumentMoniker": "Payment.Domain\\Payment.Domain.csproj",
+              "ToolTip": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Domain\\Payment.Domain.csproj",
+              "RelativeToolTip": "Payment.Domain\\Payment.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T15:18:41.889Z"
             }
           ]
         }
