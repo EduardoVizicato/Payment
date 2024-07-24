@@ -1,8 +1,7 @@
-export class PaymentDetail {
-    paymentDetailId : string = ""
+export class PaymentDetailRequest {
     cardOwnerName : string = ""
     cardNumber : string = ""
     expirationDate: string = ""
     cVV: string = ""
-    isActive: boolean = true
+    isActive: boolean = false
 }

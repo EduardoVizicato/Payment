@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13B8DF59-8A60-475C-82BA-50CE43712D7A}|Payment.Infrastructure\\Payment.Infrastructure.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\payment.infrastructure\\repositories\\paymentdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B8DF59-8A60-475C-82BA-50CE43712D7A}|Payment.Infrastructure\\Payment.Infrastructure.csproj|solutionrelative:payment.infrastructure\\repositories\\paymentdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9055798-CEF9-4C08-B026-BE91B50DE5DE}|Payment.Domain\\Payment.Domain.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\payment.domain\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9055798-CEF9-4C08-B026-BE91B50DE5DE}|Payment.Domain\\Payment.Domain.csproj|solutionrelative:payment.domain\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{281FF7B1-537E-4757-91CE-DBA976C16404}|PaymentAPI\\PaymentAPI.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{281FF7B1-537E-4757-91CE-DBA976C16404}|PaymentAPI\\PaymentAPI.csproj|solutionrelative:paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13B8DF59-8A60-475C-82BA-50CE43712D7A}|Payment.Infrastructure\\Payment.Infrastructure.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\payment.infrastructure\\repositories\\paymentdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13B8DF59-8A60-475C-82BA-50CE43712D7A}|Payment.Infrastructure\\Payment.Infrastructure.csproj|solutionrelative:payment.infrastructure\\repositories\\paymentdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13B8DF59-8A60-475C-82BA-50CE43712D7A}|Payment.Infrastructure\\Payment.Infrastructure.csproj|c:\\trabalhos para postar\\payment\\paymentapi\\payment.infrastructure\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,19 +90,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PaymentDetailRepository.cs",
               "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Repositories\\PaymentDetailRepository.cs",
               "RelativeDocumentMoniker": "Payment.Infrastructure\\Repositories\\PaymentDetailRepository.cs",
               "ToolTip": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Infrastructure\\Repositories\\PaymentDetailRepository.cs",
               "RelativeToolTip": "Payment.Infrastructure\\Repositories\\PaymentDetailRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAaAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwCEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T16:40:34.451Z"
+              "WhenOpened": "2024-07-24T16:40:34.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PaymentDetailRequest.cs",
               "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Domain\\Models\\Requests\\PaymentDetailRequest.cs",
               "RelativeDocumentMoniker": "Payment.Domain\\Models\\Requests\\PaymentDetailRequest.cs",
@@ -110,8 +111,7 @@
               "RelativeToolTip": "Payment.Domain\\Models\\Requests\\PaymentDetailRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T16:37:27.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T16:37:27.611Z"
             },
             {
               "$type": "Document",
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\PaymentAPI\\Program.cs",
               "RelativeDocumentMoniker": "PaymentAPI\\Program.cs",
@@ -151,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PaymentDetail.cs",
               "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\Payment.Domain\\Models\\PaymentDetail.cs",
               "RelativeDocumentMoniker": "Payment.Domain\\Models\\PaymentDetail.cs",
@@ -164,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PaymentDetailController.cs",
               "DocumentMoniker": "C:\\trabalhos para postar\\Payment\\PaymentAPI\\PaymentAPI\\Controllers\\PaymentDetailController.cs",
               "RelativeDocumentMoniker": "PaymentAPI\\Controllers\\PaymentDetailController.cs",
@@ -172,8 +172,7 @@
               "RelativeToolTip": "PaymentAPI\\Controllers\\PaymentDetailController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T16:57:52.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T16:57:52.046Z"
             },
             {
               "$type": "Document",
