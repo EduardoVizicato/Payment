@@ -1,3 +1,7 @@
 .mouse-hover{
     cursor: pointer;
 }
+
+form  input.ng-invalid{
+    border-color: red;
+}

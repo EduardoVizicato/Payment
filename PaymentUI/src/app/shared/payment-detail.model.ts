@@ -3,6 +3,6 @@ export class PaymentDetail {
     cardOwnerName : string = ""
     cardNumber : string = ""
     expirationDate: string = ""
-    cVV: string = ""
+    cvv: string = ""
     isActive: boolean = true
 }

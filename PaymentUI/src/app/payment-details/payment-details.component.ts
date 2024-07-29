@@ -27,4 +27,8 @@ export class PaymentDetailsComponent implements OnInit {
     })
   }
 
+  populateForm(selectedRecord : PaymentDetail){
+    this.service.formData = selectedRecord;
+  }
+
 }

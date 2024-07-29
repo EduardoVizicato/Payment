@@ -22,4 +22,16 @@ export class PaymentDetailService {
       'https://localhost:7033/api/PaymentDetail', paymentRequest
     );
   }
+
+  Put(id: string, paymentRequest: PaymentDetailRequest): Observable<PaymentDetailRequest>{
+    return this.http.put<PaymentDetailRequest>(
+      'https://localhost:7033/api/PaymentDetail/${id}', paymentRequest
+    );
+  }
+
+  GetById(id : string): Observable<PaymentDetail>{
+    return this.http.get<PaymentDetail>(
+      'https://localhost:7033/api/PaymentDetail/${id}'
+    );
+  }
 }
